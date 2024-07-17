@@ -1,0 +1,19 @@
+calendar-booking-system/
+├── config/
+│   └── db.js
+├── controllers/
+│   ├── appointmentController.js
+│   └── userController.js
+├── middleware/
+│   └── auth.js
+├── models/
+│   ├── Appointment.js
+│   └── User.js
+├── routes/
+│   ├── appointmentRoutes.js
+│   └── userRoutes.js
+├── utils/
+│   └── errorHandler.js
+├── .env
+├── server.js
+└── package.json
